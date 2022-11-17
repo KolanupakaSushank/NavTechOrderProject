@@ -1,0 +1,6 @@
+{
+    "CustomerName": "Sushank",
+	"CustomerEmail": "Sushank.1003@gmail.com",
+	"CustomerPhone": "9908090998"
+	
+}
